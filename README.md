@@ -1,6 +1,7 @@
 
 
-Ev Kiralama Sistemi
+Ev Kiralama Sistemi: 
+
 Bu Java projesi, kullanıcılara ev sahipleri, kiracılar ve farklı çeşit konut türleri oluşturma imkanı tanıyan basit bir gayrimenkul yönetim sistemini simüle eder. Sistem, gerçek bir emlak senaryosundaki varlıklar arasındaki ilişkileri modellemek için sınıf miras dahil olmak üzere nesne tabanlı prensipleri kullanır.
 
 1. EvSahibi Sınıfı:
